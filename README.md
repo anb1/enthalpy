@@ -57,7 +57,7 @@ Process
 				{0, 1, 0, ... }
 				{0, 0, 1, ... }
 				This is row-reduced echelon form. 
-    Each row in the row-reduced matrix should be multiplied by the corresponding entry in targetRxnCoefficients.
+    	Each row in the row-reduced matrix should be multiplied by the corresponding entry in targetRxnCoefficients.
 			targetRxnCoefficients == {1, 6, -4}; therefore, matrix A will look like this: 
 				{1, 0, 0, 1*(...) }
 				{0, 6, 0, 6*(...) }
