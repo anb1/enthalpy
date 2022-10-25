@@ -64,10 +64,10 @@ Process
 				{0, 0, -4, -4*(...) }
 		All the rows of matrix A should be summed.
 			E.g. {1, 6, -4, 1*(...) + 6*(...) + -4*(...) }
-  
-  
+			
+			
 Output
 	Print to standard output everything in matrix A after column n.
 		E.g. print the portion that is 1*(...) + 6*(...) + -4*(...) from the example above.
-  If the chemical reactions provided to the program are consistent, then all the variables should cancel out and only scalar values of enthalpy (dH) should be left.
+	If the chemical reactions provided to the program are consistent, then all the variables should cancel out and only scalar values of enthalpy (dH) should be left.
 		E.g. 2130 kilojoules
